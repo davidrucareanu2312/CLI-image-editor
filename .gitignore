@@ -1,0 +1,15 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# Build directories
+build/
+bin/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
